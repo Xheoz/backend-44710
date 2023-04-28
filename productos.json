@@ -1,0 +1,37 @@
+[
+  {
+    "id": "001",
+    "nombre": "Camiseta",
+    "precio": 20.0,
+    "descripcion": "Camiseta de algodón de manga corta",
+    "categoria": "ropa"
+  },
+  {
+    "id": "002",
+    "nombre": "Pantalón",
+    "precio": 30.0,
+    "descripcion": "Pantalón vaquero azul",
+    "categoria": "ropa"
+  },
+  {
+    "id": "003",
+    "nombre": "Zapatillas",
+    "precio": 50.0,
+    "descripcion": "Zapatillas deportivas negras",
+    "categoria": "calzado"
+  },
+  {
+    "id": "004",
+    "nombre": "Reloj",
+    "precio": 100.0,
+    "descripcion": "Reloj analógico con correa de cuero",
+    "categoria": "accesorios"
+  },
+  {
+    "id": "005",
+    "nombre": "Gafas de sol",
+    "precio": 25.0,
+    "descripcion": "Gafas de sol con montura de metal",
+    "categoria": "accesorios"
+  }
+]
